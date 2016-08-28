@@ -2,9 +2,9 @@
 A Basic example to create an Image grid and navigate to individual items.
 
 ## Screens
-![Home](./screen-shots/ScreenShotHome.png)
+<img src="./screen-shots/ScreenShotHome.png" width="200">
 
-![Home](./screen-shots/ScreenShotIndividualPage.png)
+<img src="./screen-shots/ScreenShotIndividualPage.png" width="200">
 
 ## Concepts Used
 
@@ -20,6 +20,7 @@ Then run the below commands
 $ git clone https://github.com/sravanrekandar/ReactNativeImageGridExample.git
 $ cd ReactNativeImageGridExample
 $ npm install
+
 # To run ios app
 $ react-native run-ios
 
